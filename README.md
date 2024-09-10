@@ -29,4 +29,6 @@ The modified function questions
 6. Implementation of merge sort
 
   - Output:
-    ![Screenshot 2024-09-10 125147](https://github.com/user-attachments/assets/47006e2f-9e13-4af8-a4fb-b5ad1362a50d)
+
+   ![Screenshot 2024-09-10 125617](https://github.com/user-attachments/assets/274d7fc0-af83-40f8-beac-45ff3ff5a28a)
+
